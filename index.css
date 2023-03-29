@@ -1,0 +1,42 @@
+/* Write your code here. */
+.bg_container {
+  background-color: azure;
+}
+
+.heading {
+  color: black;
+  font-family: "Monoton";
+  text-align: center;
+}
+
+.boxes_container {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: end;
+}
+
+.box {
+  color: white;
+  font-family: "Roboto";
+  text-align: center;
+}
+.small {
+  background-color: #fbbf24;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+}
+
+.medium {
+  background-color: #38bdf8;
+  height: 100px;
+  width: 100px;
+}
+
+.large {
+  background-color: #ec4899;
+  height: 150px;
+  width: 150px;
+}
